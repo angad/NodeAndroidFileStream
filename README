@@ -1,0 +1,3 @@
+Current status : Implements only a multipart file upload
+TODO : onPart event that sends a C2DM notification to Android
+Android opens a connection to the server and receives the part
